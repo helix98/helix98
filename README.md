@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @helix98
 - 👀 I’m interested in programming and gaming
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# + Python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
